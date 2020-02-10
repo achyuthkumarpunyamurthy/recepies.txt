@@ -1,5 +1,7 @@
-def A:
-  print("hi")
+class as():
+  def A:
+    print("hi")
 
-def B(A):
-  print("Hello")
+  def B(A):
+    print("Hello")
+
