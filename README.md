@@ -1,2 +1,2 @@
-# recepies.txt
-casual saving
+def A:
+  print("hi")
