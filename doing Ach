@@ -5,4 +5,5 @@ class gen():
   def a1:
     print("fun")
  a=obj(gen)
+a,csJ<
  
